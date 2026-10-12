@@ -2,7 +2,11 @@
 # NBA Talent Intelligence — Early-Career Screening Prototype
 
 ## What this is
-A research prototype that tests whether first- and second-season box-score statistics and available biographical attributes help rank players who later appeared in an All-Star Game during career seasons 3–7. The artefact is intended to support further scouting review, not automate recruitment.
+A research prototype that tests whether first- and second-season NBA box-score statistics and available biographical attributes can help rank players who later appeared in an NBA All-Star Game during career seasons 3–7.
+
+The project includes a reproducible Jupyter notebook, a Random Forest modelling pipeline, temporal test-cohort evaluation results, and a Streamlit dashboard for exploring model performance and ranked player results.
+
+The intended use is **decision support for further scouting and development review**, not automated recruitment or player selection. Results should be interpreted as exploratory evidence, with limitations in historical data, outcome definition, model generalisability, and the distinction between All-Star selection and broader player potential.
 
 ## Included
 - `NBA_Talent_Intelligence.ipynb` — reproducible analysis notebook.
