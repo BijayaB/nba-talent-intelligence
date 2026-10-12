@@ -11,6 +11,7 @@ The intended use is **decision support for further scouting and development revi
 ## Included
 - `NBA_Talent_Intelligence.ipynb` — reproducible analysis notebook.
 - `app.py` — Streamlit retrospective evaluation dashboard.
+- `evaluation_metrics.json` and `model_comparison.csv` — evaluation outputs.
 - `scored_test_players.csv` — compact temporal test-cohort results for the dashboard.
 - `requirements.txt` — Python dependencies.
 
