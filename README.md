@@ -8,10 +8,6 @@ A research prototype that tests whether first- and second-season box-score stati
 - `NBA_Talent_Intelligence.ipynb` — reproducible analysis notebook.
 - `app.py` — Streamlit retrospective evaluation dashboard.
 - `scored_test_players.csv` — compact temporal test-cohort results for the dashboard.
-- `eligible_player_features.csv` — compact early-career modelling dataset.
-- `talent_model.joblib` — fitted Random Forest pipeline and feature list.
-- `evaluation_metrics.json` and `model_comparison.csv` — reported metrics.
-- `shortlist_precision.png` — figure for the consultancy report.
 - `requirements.txt` — Python dependencies.
 
 ## Source data
