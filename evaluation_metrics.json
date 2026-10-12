@@ -1,0 +1,27 @@
+{
+  "target": "All-Star appearance in career seasons 3\u20137, among players with no All-Star appearance in career seasons 1\u20132",
+  "latest_season_in_data": 2025,
+  "eligible_players": 3162,
+  "training_players_debut_through_2010": 2501,
+  "training_positive_outcomes": 218,
+  "test_players_debut_2011_to_2019": 661,
+  "test_positive_outcomes": 36,
+  "test_positive_rate": 0.0545,
+  "top_10_percent_k": 67,
+  "random_forest": {
+    "roc_auc": 0.949,
+    "average_precision": 0.558,
+    "brier_score": 0.037,
+    "precision_at_k": 0.373,
+    "recall_at_k": 0.694,
+    "selected_k": 67
+  },
+  "baseline_mean_points_per_game": {
+    "roc_auc": 0.905,
+    "average_precision": 0.445,
+    "precision_at_k": 0.328,
+    "recall_at_k": 0.611,
+    "selected_k": 67
+  },
+  "caveat": "Exploratory retrospective results; historical eras and box-score-only data limit direct operational interpretation. Metrics must be reviewed before any deployment decision."
+}
